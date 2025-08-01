@@ -1,1 +1,1 @@
-Heart Disease Prediction with different models along with the data analysis
+Heart Disease Prediction with different models (SVM, DT) along with the data analysis
